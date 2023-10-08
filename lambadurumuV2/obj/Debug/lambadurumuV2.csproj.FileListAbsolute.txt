@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Nursevim\lambadurumuV2\lambadurumuV2\bin\Debug\lambadurumuV2.exe.config
+C:\Users\USER\Desktop\Nursevim\lambadurumuV2\lambadurumuV2\bin\Debug\lambadurumuV2.exe
+C:\Users\USER\Desktop\Nursevim\lambadurumuV2\lambadurumuV2\bin\Debug\lambadurumuV2.pdb
+C:\Users\USER\Desktop\Nursevim\lambadurumuV2\lambadurumuV2\obj\Debug\lambadurumuV2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Nursevim\lambadurumuV2\lambadurumuV2\obj\Debug\lambadurumuV2.Form1.resources
+C:\Users\USER\Desktop\Nursevim\lambadurumuV2\lambadurumuV2\obj\Debug\lambadurumuV2.Properties.Resources.resources
+C:\Users\USER\Desktop\Nursevim\lambadurumuV2\lambadurumuV2\obj\Debug\lambadurumuV2.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Nursevim\lambadurumuV2\lambadurumuV2\obj\Debug\lambadurumuV2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Nursevim\lambadurumuV2\lambadurumuV2\obj\Debug\lambadurumuV2.exe
+C:\Users\USER\Desktop\Nursevim\lambadurumuV2\lambadurumuV2\obj\Debug\lambadurumuV2.pdb
